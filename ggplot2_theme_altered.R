@@ -1,5 +1,5 @@
 ################################################
-### ggplot2 theme for Pfizer Global Economics
+### ggplot2 theme for panel charts
 #############################################
 
 #packages
